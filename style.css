@@ -1,0 +1,43 @@
+body {
+    background: linear-gradient(to right, #a770ef, #cf8bf3, #fdb99b);
+}
+
+.myTable {
+    background: #fff;
+}
+
+
+thead th, thead td {
+    text-align: center;
+}
+
+tbody th, tbody td {
+    text-align: center;
+}
+
+tfoot th, tfoot td {
+    text-align: center;
+}
+
+.edit , .delete {
+    cursor: pointer;
+}
+
+.heading {
+    text-decoration: underline;
+    color: #fff;
+}
+
+.myAlert {
+    display: none;
+    padding-bottom: 0px;
+    color: #fff;
+}
+
+.valid {
+    display: none;
+    color: #955fd0;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
